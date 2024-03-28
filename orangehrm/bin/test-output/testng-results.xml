@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T17:11:29 IST" name="Default suite" finished-at="2024-03-05T17:12:05 IST" duration-ms="35809">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T17:11:29 IST" name="Default test" finished-at="2024-03-05T17:12:05 IST" duration-ms="35809">
+      <class name="orangehrm.tests.AddEmployeeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:orangehrm.tests.AddEmployeeTest@14dd9eb7]" started-at="2024-03-05T17:11:29 IST" name="setUp" finished-at="2024-03-05T17:11:44 IST" duration-ms="15504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddNewEmployee()[pri:0, instance:orangehrm.tests.AddEmployeeTest@14dd9eb7]" started-at="2024-03-05T17:11:44 IST" name="testAddNewEmployee" finished-at="2024-03-05T17:12:04 IST" duration-ms="19903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNewEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:orangehrm.tests.AddEmployeeTest@14dd9eb7]" started-at="2024-03-05T17:12:04 IST" name="tearDown" finished-at="2024-03-05T17:12:05 IST" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- orangehrm.tests.AddEmployeeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
